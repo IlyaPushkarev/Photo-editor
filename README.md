@@ -1,1 +1,1 @@
-# Photo-editor
+# Training projects
